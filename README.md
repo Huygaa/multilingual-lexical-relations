@@ -1,7 +1,7 @@
 # Multilingual Lexical Relations
 Datasets are consists of several languages
 
-# Type of Lexical Relations
+## Type of Lexical Relations
 The Princeton WordNet is organized by the relations between word meanings or word forms. Those relations are divided into two types, namely: lexical and semantic relations. The semantic relations are language independent, so that both in principle and practice the semantic relations are easily incorporated into the lexical resources, aligned with PWN. In contrast to the fact just mentioned, the lexical relations are not imported to new languages due to language diversity. Consequently, the lexical relations are being either manually or semi-automatically developed in other WordNets such as MultiWordNet \cite{pianta2002developing}. 
 
 The PWN has the three types of lexical relations as follows.
