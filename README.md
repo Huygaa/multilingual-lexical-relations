@@ -13,3 +13,6 @@ a. PERTAIN is a lexical relation between the relational adjective and a noun tha
 b. ANTONYMY is a lexical relation between word forms, not a semantic relation between word meanings. For example the meanings \{\textit{rise, ascend}\} and \{\textit{fall, descend}\} are conceptual opposite, but they are not antonym; [\textit{rise, fall}] are antonyms and so are [\textit{ascend, descend}].
 
 c. DERIVED is a lexical relation in the terms of that word forms in different syntactic categories that have the same root form and are semantically related (e.g. bassoon and bassoonist).
+
+## License.
+[CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
