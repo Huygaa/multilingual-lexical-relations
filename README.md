@@ -27,6 +27,6 @@ If you use this resource, we ask you to cite us using the following citation:
   pages     = {4009--4017},
   year      = {2017},
   doi       = {10.24963/ijcai.2017/560},
-  url       = {https://doi.org/10.24963/ijcai.2017/560},
+  url       = {https://doi.org/10.24963/ijcai.2017/560 },
 }
 
