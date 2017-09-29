@@ -18,6 +18,7 @@ c. DERIVED is a lexical relation in the terms of that word forms in different sy
 [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 If you use this resource, we ask you to cite us using the following citation:
+
 @inproceedings{ijcai2017-560,
   author    = {Fausto Giunchiglia, Khuyagbaatar Batsuren, Gabor Bella},
   title     = {Understanding and Exploiting Language Diversity},
